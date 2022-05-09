@@ -1,6 +1,5 @@
 ### Hi there 👋,I'm Öznur Şahin.
 
-<!--
  I am studying Computer Engineering at Kocaeli University.
 
 - 📫 How to reach me: ozz.shn03@gmail.com
